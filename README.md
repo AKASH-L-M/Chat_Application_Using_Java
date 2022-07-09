@@ -12,7 +12,9 @@ Tool Stack : Eclipse
 <br><br>
 Images:
 <br><br>
-![java_chat_1](https://user-images.githubusercontent.com/91725049/178090152-61eb2c9b-78a8-4604-bddc-28c035a6faa4.jpg)
+![java_chat_1](https://user-images.githubusercontent.com/91725049/178090214-62d32332-cc33-43e0-b4c0-1a3e3309131f.jpg)
+
+
 <br>
 
 ![java_chat_2](https://user-images.githubusercontent.com/91725049/178090119-e940b8bc-3d03-4cc3-bce0-e2e4f46b703e.jpg)
