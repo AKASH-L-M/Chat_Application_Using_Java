@@ -11,9 +11,8 @@ Contains: Frontend-Java Swings(Window Application) / Desktop Application
 Tool Stack : Eclipse
 <br><br>
 Images:
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=Akash-L-M&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)<br>
+<br><br>
+![java_chat_1](https://user-images.githubusercontent.com/91725049/178090152-61eb2c9b-78a8-4604-bddc-28c035a6faa4.jpg)
 
 ![java_chat_2](https://user-images.githubusercontent.com/91725049/178090119-e940b8bc-3d03-4cc3-bce0-e2e4f46b703e.jpg)
 
