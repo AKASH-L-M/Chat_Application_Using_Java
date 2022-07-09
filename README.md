@@ -4,7 +4,7 @@ A JAVA Server_Client Chat application built using Java Swings(front-end), includ
 <br>
 Team size: 1
 <br>
-Duration: 3 Days
+Duration: 3 Days(coding) + 7 Days(Research and Design)
 <br>
 Contains: Frontend-Java Swings(Window Application) / Desktop Application
 <br>
@@ -13,6 +13,7 @@ Tool Stack : Eclipse
 Images:
 <br><br>
 ![java_chat_1](https://user-images.githubusercontent.com/91725049/178090152-61eb2c9b-78a8-4604-bddc-28c035a6faa4.jpg)
+<br>
 
 ![java_chat_2](https://user-images.githubusercontent.com/91725049/178090119-e940b8bc-3d03-4cc3-bce0-e2e4f46b703e.jpg)
 
